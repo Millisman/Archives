@@ -5,7 +5,7 @@ You can review or even repeat it at home.
 
 Commercial use of these materials is prohibited.
 
-Writer Sergey Kostyanoy (c) 2021
+Writer Sergey Kostyanoy © 2021
 
 Site: https://arduino.uno/about
 
